@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01判断两个对象是否是同一个对象", "01判断两个对象是否是同一个对象\01判断两个对象是否是同一个对象.csproj", "{52B741D9-D0F4-4AEB-B53D-63B70F80A5D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02垃圾回收", "02垃圾回收\02垃圾回收.csproj", "{E889B673-BC88-4ABF-B456-BA4B41BA2960}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03集合", "03集合\03集合.csproj", "{CA82CCB1-4C28-4392-8645-1A1BE1442295}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04键值对集合", "04键值对集合\04键值对集合.csproj", "{9C10248E-0E84-4325-8284-7ECC9AD04277}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05集合练习1", "05集合练习1\05集合练习1.csproj", "{B7989B97-BE76-4B75-A9BE-A40A66FED4DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52B741D9-D0F4-4AEB-B53D-63B70F80A5D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52B741D9-D0F4-4AEB-B53D-63B70F80A5D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52B741D9-D0F4-4AEB-B53D-63B70F80A5D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52B741D9-D0F4-4AEB-B53D-63B70F80A5D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E889B673-BC88-4ABF-B456-BA4B41BA2960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E889B673-BC88-4ABF-B456-BA4B41BA2960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E889B673-BC88-4ABF-B456-BA4B41BA2960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E889B673-BC88-4ABF-B456-BA4B41BA2960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA82CCB1-4C28-4392-8645-1A1BE1442295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA82CCB1-4C28-4392-8645-1A1BE1442295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA82CCB1-4C28-4392-8645-1A1BE1442295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA82CCB1-4C28-4392-8645-1A1BE1442295}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C10248E-0E84-4325-8284-7ECC9AD04277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C10248E-0E84-4325-8284-7ECC9AD04277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C10248E-0E84-4325-8284-7ECC9AD04277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C10248E-0E84-4325-8284-7ECC9AD04277}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7989B97-BE76-4B75-A9BE-A40A66FED4DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7989B97-BE76-4B75-A9BE-A40A66FED4DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7989B97-BE76-4B75-A9BE-A40A66FED4DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7989B97-BE76-4B75-A9BE-A40A66FED4DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
